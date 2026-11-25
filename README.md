@@ -12,6 +12,8 @@
 
 Если Windows покажет «Windows защитил ваш компьютер»: «Подробнее» → «Выполнить в любом случае».
 
+**[Скачать для Mac](https://github.com/kiqwea/hearth-launcher-releases/releases/latest/download/HearthLauncher.dmg)** (процессор Apple, M1 и новее; Minecraft 1.19 и новее). Откройте файл и перетащите Hearth Launcher в «Программы». При первом запуске macOS его не откроет: «Системные настройки» → «Конфиденциальность и безопасность» → «Всё равно открыть». Это один раз, дальше лаунчер обновляется сам.
+
 Нужен свой сервер для друзей? [Hearth](https://github.com/kiqwea/hearth/releases/latest).
 
 Здесь лежат только установщики и файлы обновлений.
